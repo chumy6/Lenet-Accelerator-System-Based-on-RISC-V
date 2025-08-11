@@ -214,7 +214,7 @@ PE 的功能是计算输入与权重的乘积，累积部分和以及将输入�
 
 **注：**在 `done` 信号被拉高后，`Y` 中的数据将立即写回内存。然而，在实际的加速器场景中，一次性将所有 `Y` 写回内存是不现实的；此处为了简化起见，假设该操作在一个周期内完成。
 
-# Proj2：RISC-V处理器设计
+# Proj2：RISC-V 处理器设计
 
 ## 2.1 简介
 
@@ -753,7 +753,7 @@ vse32.v vx4,    x5,     1           ; A[0][0:7] = vx4
 6. [RISCV-V Document Pdf](https://github.com/riscv/riscv-v-spec/releases/download/v1.0/riscv-v-spec-1.0.pdf)
 
 
-# Proj3: An AI computing system
+# Proj3: 一个 AI 计算系统
 
 ## 3.1 项目目标
 
