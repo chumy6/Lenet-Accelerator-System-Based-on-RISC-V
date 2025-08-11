@@ -1,4 +1,4 @@
-# AI 加速系统
+# 基于 RISC-V 的 Lenet 加速系统
 
 # Proj1: 用于 Conv2D 的脉动阵列
 
